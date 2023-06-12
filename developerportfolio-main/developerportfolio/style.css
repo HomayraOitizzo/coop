@@ -61,3 +61,34 @@ button {
     background-position: right;
 
 }
+.experience-area
+{
+    box-shadow: 10px 10px 40px blue;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-left: 7px solid blueviolet;
+    
+}
+h2{
+    font-size: 40px;
+}
+.experience-item {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+#pro
+{
+    border-left: 7px solid violet;
+}
+#baby
+{
+    border-left: 7px solid maroon;
+}
+footer{
+    text-align: center;
+    color: brown;
+}
